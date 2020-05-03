@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './components/header/header';
-import  UserForm from './components/user-form/user-form';
+import Header from './components/Header/Header';
+import { UserForm } from './components/UserForm/UserForm';
 import './App.css';
 
 
